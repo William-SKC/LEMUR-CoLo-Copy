@@ -1,7 +1,7 @@
 # LEMUR CoLo
 
 ## Note
-This is a copy of the [project] (https://uclalemur.com/research/colo-simulation-environment-for-cooperative-localization) I did at [UCLA LEMUR](https://uclalemur.com/).\
+This is a copy of the [project](https://uclalemur.com/research/colo-simulation-environment-for-cooperative-localization) I did at [UCLA LEMUR](https://uclalemur.com/).\
 [GitLab](https://git.uclalemur.com/billyskc/CoLo). 
 
 ## Synopsis
