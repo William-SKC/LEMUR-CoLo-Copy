@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robot_controls</name>
+  <version>0.1.0</version>
+  <description>The robot_controls package</description>
+
+  <maintainer email="you@yourdomain.tld">Your Name</maintainer>
+  <license>BSD</license>
+  <url type="website">http://wiki.ros.org/robot_controls</url>
+  <author email="you@yourdomain.tld">Jane Doe</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>ca_msgs</exec_depend>
+
+</package>
